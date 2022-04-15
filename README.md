@@ -12,11 +12,29 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+### Hi there 👋, I'm Rajesh Kushwaha.
+#### Fornt-End Developer
+![Fornt-End Developer](https://scontent.fblr1-5.fna.fbcdn.net/v/t39.30808-6/241125529_1251315988643025_1976502261676023361_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_ohc=tFFkOuDXK3MAX-ZzrlW&_nc_ht=scontent.fblr1-5.fna&oh=00_AT83T6hciye_R8tvGR-hI8IP9Q6Uo38NCqBlrha02H3O5w&oe=625E271B)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Hi, I'm Rajesh Kushwaha . I'm Front-End Developer .Currently working  in Medi Assist, Banglore.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Skills: HTML  CSS, Bootstrap, JavaScript, React, Angular, RxJS, TypeScript 
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RajeshKushwaha1)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RajeshKushwaha1)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshKushwaha1)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RajeshKushwaha1&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RajeshKushwaha1)  
+
+![GitHub metrics](https://metrics.lecoq.io/RajeshKushwaha1)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RajeshKushwaha1)  
+
+![Profile views](https://gpvc.arturio.dev/RajeshKushwaha1)  
