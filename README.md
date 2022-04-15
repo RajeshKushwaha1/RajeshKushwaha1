@@ -2,19 +2,10 @@
 
 <!--
 **RajeshKushwaha1/RajeshKushwaha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Angular.
-- 💬 Ask me about JavaScript.
-- 📫 How to reach me: rajeshmavm@gmail.com
-- 😄 Pronouns: He/His
 -->
 
-
-### Hi there 👋, I'm Rajesh Kushwaha.
 #### Fornt-End Developer
-![Fornt-End Developer](https://scontent.fblr1-5.fna.fbcdn.net/v/t39.30808-6/241125529_1251315988643025_1976502261676023361_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_ohc=tFFkOuDXK3MAX-ZzrlW&_nc_ht=scontent.fblr1-5.fna&oh=00_AT83T6hciye_R8tvGR-hI8IP9Q6Uo38NCqBlrha02H3O5w&oe=625E271B)
+![Fornt-End Developer]()
 
 Hi, I'm Rajesh Kushwaha . I'm Front-End Developer .Currently working  in Medi Assist, Banglore.
 
