@@ -17,6 +17,7 @@ Skills: HTML  CSS, Bootstrap, JavaScript, React, Angular, RxJS, TypeScript
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RajeshKushwaha1)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RajeshKushwaha1)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RajeshKushwaha1)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshKushwaha1)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -25,7 +26,5 @@ Skills: HTML  CSS, Bootstrap, JavaScript, React, Angular, RxJS, TypeScript
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RajeshKushwaha1)  
 
 ![GitHub metrics](https://metrics.lecoq.io/RajeshKushwaha1)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RajeshKushwaha1)  
 
 ![Profile views](https://gpvc.arturio.dev/RajeshKushwaha1)  
